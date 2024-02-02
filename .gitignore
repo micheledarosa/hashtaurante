@@ -23,14 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 
-# Arquivos e diretórios específicos
-public
-package-lock.json
-
-# Arquivos específicos
+/public
+.eslintrc.cjs
 index.html
+package-lock.json
 package.json
 vite.config.js
-
-# Outros arquivos gerados durante o desenvolvimento
-.eslintrc.cjs
