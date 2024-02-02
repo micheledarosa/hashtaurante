@@ -22,3 +22,15 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Arquivos e diretórios específicos
+/public
+/package-lock.json
+
+# Arquivos específicos
+/index.html
+/package.json
+/vite.config.js
+
+# Outros arquivos gerados durante o desenvolvimento
+/.eslintrc.cjs
